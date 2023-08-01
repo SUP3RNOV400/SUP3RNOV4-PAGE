@@ -1,0 +1,117 @@
+html {
+    background-color: black;
+}
+body {
+    color: white;
+}
+.container1 {
+    display: grid;
+    place-items: center;
+}  
+h1 {
+    text-decoration: underline;
+}
+.logo-heading {
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.supernovalogo {
+    width: 80px;
+    height: 80px;
+}
+
+.ytlogo {
+    width: 50px;
+    height: 50px;
+    position: relative;
+}  
+
+.instalogo {
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+
+.twitterlogo {
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+
+.pclogo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 770px;
+    bottom: 135px;
+}
+
+.typing {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 760px;
+    bottom: 135px;
+}
+
+.gaming {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 720px;
+    bottom: 135px;
+}
+
+.coding {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 720px;
+    bottom: 135px;
+}
+
+.learning {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 720px;
+    bottom: 135px;
+}
+dt {
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    bottom: 20px;
+
+}
+dd {
+    font-size: 22px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
